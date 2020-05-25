@@ -2,6 +2,7 @@ import React, { useRef, useEffect } from "react";
 import mapboxgl from 'mapbox-gl';
 import useSWR from "swr"; // React hook to fetch the data
 import lookup from "country-code-lookup"; // npm module to get ISO Code for countries
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import "./App.scss";
 // Mapbox css - needed to make tooltips work later in this article
