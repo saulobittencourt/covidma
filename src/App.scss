@@ -5,7 +5,6 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
 /*  Make our map take the full viewport - 100% */
@@ -49,4 +48,8 @@ body {
         width: 4rem;
         height: 4rem;
     }
+}
+.x.axis .tick text{
+    transform:translate(-15px, 21px) rotate(-90Deg);
+    font:regular 10px;
 }

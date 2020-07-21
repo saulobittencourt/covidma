@@ -1,0 +1,442 @@
+[
+  {
+    "reference": "2020-04-01",
+    "value": 1
+  },
+  {
+    "reference": "2020-04-02",
+    "value": 1
+  },
+  {
+    "reference": "2020-04-03",
+    "value": 1
+  },
+  {
+    "reference": "2020-04-04",
+    "value": 2
+  },
+  {
+    "reference": "2020-04-05",
+    "value": 2
+  },
+  {
+    "reference": "2020-04-06",
+    "value": 4
+  },
+  {
+    "reference": "2020-04-07",
+    "value": 11
+  },
+  {
+    "reference": "2020-04-08",
+    "value": 11
+  },
+  {
+    "reference": "2020-04-09",
+    "value": 14
+  },
+  {
+    "reference": "2020-04-10",
+    "value": 19
+  },
+  {
+    "reference": "2020-04-11",
+    "value": 22
+  },
+  {
+    "reference": "2020-04-12",
+    "value": 25
+  },
+  {
+    "reference": "2020-04-13",
+    "value": 30
+  },
+  {
+    "reference": "2020-04-14",
+    "value": 32
+  },
+  {
+    "reference": "2020-04-15",
+    "value": 34
+  },
+  {
+    "reference": "2020-04-16",
+    "value": 35
+  },
+  {
+    "reference": "2020-04-17",
+    "value": 38
+  },
+  {
+    "reference": "2020-04-18",
+    "value": 40
+  },
+  {
+    "reference": "2020-04-19",
+    "value": 43
+  },
+  {
+    "reference": "2020-04-20",
+    "value": 47
+  },
+  {
+    "reference": "2020-04-21",
+    "value": 51
+  },
+  {
+    "reference": "2020-04-22",
+    "value": 61
+  },
+  {
+    "reference": "2020-04-23",
+    "value": 71
+  },
+  {
+    "reference": "2020-04-24",
+    "value": 81
+  },
+  {
+    "reference": "2020-04-25",
+    "value": 87
+  },
+  {
+    "reference": "2020-04-26",
+    "value": 98
+  },
+  {
+    "reference": "2020-04-27",
+    "value": 116
+  },
+  {
+    "reference": "2020-04-28",
+    "value": 136
+  },
+  {
+    "reference": "2020-04-29",
+    "value": 149
+  },
+  {
+    "reference": "2020-04-30",
+    "value": 165
+  },
+  {
+    "reference": "2020-05-01",
+    "value": 178
+  },
+  {
+    "reference": "2020-05-02",
+    "value": 186
+  },
+  {
+    "reference": "2020-05-03",
+    "value": 197
+  },
+  {
+    "reference": "2020-05-04",
+    "value": 213
+  },
+  {
+    "reference": "2020-05-05",
+    "value": 227
+  },
+  {
+    "reference": "2020-05-06",
+    "value": 238
+  },
+  {
+    "reference": "2020-05-07",
+    "value": 255
+  },
+  {
+    "reference": "2020-05-08",
+    "value": 271
+  },
+  {
+    "reference": "2020-05-09",
+    "value": 289
+  },
+  {
+    "reference": "2020-05-10",
+    "value": 303
+  },
+  {
+    "reference": "2020-05-11",
+    "value": 324
+  },
+  {
+    "reference": "2020-05-12",
+    "value": 332
+  },
+  {
+    "reference": "2020-05-13",
+    "value": 346
+  },
+  {
+    "reference": "2020-05-14",
+    "value": 363
+  },
+  {
+    "reference": "2020-05-15",
+    "value": 379
+  },
+  {
+    "reference": "2020-05-16",
+    "value": 394
+  },
+  {
+    "reference": "2020-05-17",
+    "value": 402
+  },
+  {
+    "reference": "2020-05-18",
+    "value": 414
+  },
+  {
+    "reference": "2020-05-19",
+    "value": 434
+  },
+  {
+    "reference": "2020-05-20",
+    "value": 448
+  },
+  {
+    "reference": "2020-05-21",
+    "value": 463
+  },
+  {
+    "reference": "2020-05-22",
+    "value": 475
+  },
+  {
+    "reference": "2020-05-23",
+    "value": 484
+  },
+  {
+    "reference": "2020-05-24",
+    "value": 490
+  },
+  {
+    "reference": "2020-05-25",
+    "value": 497
+  },
+  {
+    "reference": "2020-05-26",
+    "value": 509
+  },
+  {
+    "reference": "2020-05-27",
+    "value": 517
+  },
+  {
+    "reference": "2020-05-28",
+    "value": 519
+  },
+  {
+    "reference": "2020-05-29",
+    "value": 521
+  },
+  {
+    "reference": "2020-05-30",
+    "value": 524
+  },
+  {
+    "reference": "2020-05-31",
+    "value": 526
+  },
+  {
+    "reference": "2020-06-01",
+    "value": 528
+  },
+  {
+    "reference": "2020-06-02",
+    "value": 535
+  },
+  {
+    "reference": "2020-06-03",
+    "value": 538
+  },
+  {
+    "reference": "2020-06-04",
+    "value": 544
+  },
+  {
+    "reference": "2020-06-05",
+    "value": 549
+  },
+  {
+    "reference": "2020-06-06",
+    "value": 557
+  },
+  {
+    "reference": "2020-06-07",
+    "value": 568
+  },
+  {
+    "reference": "2020-06-08",
+    "value": 577
+  },
+  {
+    "reference": "2020-06-09",
+    "value": 586
+  },
+  {
+    "reference": "2020-06-10",
+    "value": 588
+  },
+  {
+    "reference": "2020-06-11",
+    "value": 599
+  },
+  {
+    "reference": "2020-06-12",
+    "value": 608
+  },
+  {
+    "reference": "2020-06-13",
+    "value": 621
+  },
+  {
+    "reference": "2020-06-14",
+    "value": 629
+  },
+  {
+    "reference": "2020-06-15",
+    "value": 642
+  },
+  {
+    "reference": "2020-06-16",
+    "value": 654
+  },
+  {
+    "reference": "2020-06-17",
+    "value": 667
+  },
+  {
+    "reference": "2020-06-18",
+    "value": 680
+  },
+  {
+    "reference": "2020-06-19",
+    "value": 693
+  },
+  {
+    "reference": "2020-06-20",
+    "value": 705
+  },
+  {
+    "reference": "2020-06-21",
+    "value": 715
+  },
+  {
+    "reference": "2020-06-22",
+    "value": 724
+  },
+  {
+    "reference": "2020-06-23",
+    "value": 734
+  },
+  {
+    "reference": "2020-06-24",
+    "value": 745
+  },
+  {
+    "reference": "2020-06-25",
+    "value": 756
+  },
+  {
+    "reference": "2020-06-26",
+    "value": 771
+  },
+  {
+    "reference": "2020-06-27",
+    "value": 788
+  },
+  {
+    "reference": "2020-06-28",
+    "value": 803
+  },
+  {
+    "reference": "2020-06-29",
+    "value": 813
+  },
+  {
+    "reference": "2020-06-30",
+    "value": 825
+  },
+  {
+    "reference": "2020-07-01",
+    "value": 834
+  },
+  {
+    "reference": "2020-07-02",
+    "value": 842
+  },
+  {
+    "reference": "2020-07-03",
+    "value": 849
+  },
+  {
+    "reference": "2020-07-04",
+    "value": 862
+  },
+  {
+    "reference": "2020-07-05",
+    "value": 876
+  },
+  {
+    "reference": "2020-07-06",
+    "value": 891
+  },
+  {
+    "reference": "2020-07-07",
+    "value": 903
+  },
+  {
+    "reference": "2020-07-08",
+    "value": 918
+  },
+  {
+    "reference": "2020-07-09",
+    "value": 927
+  },
+  {
+    "reference": "2020-07-10",
+    "value": 940
+  },
+  {
+    "reference": "2020-07-11",
+    "value": 950
+  },
+  {
+    "reference": "2020-07-12",
+    "value": 964
+  },
+  {
+    "reference": "2020-07-13",
+    "value": 980
+  },
+  {
+    "reference": "2020-07-14",
+    "value": 996
+  },
+  {
+    "reference": "2020-07-15",
+    "value": 1010
+  },
+  {
+    "reference": "2020-07-16",
+    "value": 1026
+  },
+  {
+    "reference": "2020-07-17",
+    "value": 1036
+  },
+  {
+    "reference": "2020-07-18",
+    "value": 1047
+  },
+  {
+    "reference": "2020-07-19",
+    "value": 1059
+  }
+]
