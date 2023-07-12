@@ -10,11 +10,11 @@
     "country-code-lookup": "^0.0.17",
     "d3": "^5.16.0",
     "mapbox-gl": "^1.10.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "swr": "^0.2.2"
   },
   "scripts": {
